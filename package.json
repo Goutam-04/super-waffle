@@ -10,16 +10,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@monaco-editor/react": "^4.7.0",
     "@tailwindcss/vite": "^4.1.11",
     "@xterm/xterm": "^5.5.0",
     "copy-to-clipboard": "^3.3.3",
     "monaco-themes": "^0.4.6",
     "react": "^19.1.0",
+    "react-chatbotify": "^2.2.0",
     "react-dom": "^19.1.0",
     "react-icons": "^5.5.0",
+    "react-markdown": "^10.1.0",
     "react-router-dom": "^7.7.0",
     "react-select": "^5.10.2",
+    "react-syntax-highlighter": "^15.6.1",
     "socket.io-client": "^4.8.1",
     "tailwindcss": "^4.1.11",
     "xterm": "^5.3.0"
